@@ -30,13 +30,5 @@ public class Login {
 		AssertJUnit.assertEquals(driver.getCurrentUrl(), "http://facebook.com");
 
 	}
-	
-	
-	
-	@Test
-	public void test2() {
-		System.out.println("sample test");
-	}
 
-	
 }
