@@ -13,8 +13,12 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Login {
 
 	
+<<<<<<< HEAD
 	
 	
+=======
+	// this change from web
+>>>>>>> 081b7c651063f7c175c245f6f203688b182ab490
 	
 	@Test
 	public void testLogin() {
