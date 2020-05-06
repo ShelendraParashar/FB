@@ -12,6 +12,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Login {
 
+	public void testFromGithub()[
+		}
 	
 	// This is comment from feature1 branch
 	
