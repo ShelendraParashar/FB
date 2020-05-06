@@ -13,7 +13,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Login {
 
 	
-	// This is comment from feature1 branch
+	
+	
 	
 	@Test
 	public void testLogin() {
@@ -34,4 +35,9 @@ public class Login {
 
 	}
 
+	
+	public void test1() {
+		
+	}
+	
 }
